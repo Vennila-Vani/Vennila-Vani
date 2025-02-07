@@ -1,6 +1,6 @@
 <p align="center">
   <h1>      Hi there 👋, I'm Vennila Vani</h1>
-  <h1>          💡 Data Analyst</h1>
+  <h2>          💡 Data Analyst</h2>
 </p>
 
 
