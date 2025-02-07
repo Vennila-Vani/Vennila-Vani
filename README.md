@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>Hi there 👋, I'm Vennila Vani</h1>
-  <h3>💡 Data Analyst</h3>
+  <strong><font size="6">Hi there 👋, I'm Vennila Vani</font></strong><br>
+  <font size="4">💡 Data Analyst</font>
 </p>
 
 🔍 Transforming **data into meaningful insights** to drive decisions.  
