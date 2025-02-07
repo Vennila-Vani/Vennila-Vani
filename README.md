@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Vennila Vani  
-### 💡Data Analyst  
+<p align="center">
+  <h1>Hi there 👋, I'm Vennila Vani</h1>
+  <h3>💡 Data Analyst</h3>
+</p>
 
 🔍 Transforming **data into meaningful insights** to drive decisions.  
 
